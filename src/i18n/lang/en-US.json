@@ -1,0 +1,56 @@
+{
+  "header": {
+    "title": "LOVE TRAVELING",
+    "explore": "EXPLORE",
+    "login": "SIGN IN / UP",
+    "myFollowing": "My Following",
+    "startPlanning": "Start Planning"
+  },
+  "cityMenu": {
+    "title": "Popular City",
+    "tainan": "Tainan",
+    "hualien": "Hualien",
+    "seoul": "Seoul",
+    "tokyo": "Tokyo",
+    "bangkok": "Bangkok"
+  },
+  "recommendMenu": {
+    "title": "Recommend Itineraries",
+    "one-dayTrip": "One-day Trip",
+    "in-depthTravel": "In-depth Travel",
+    "foreignTravel": "Foreign Travel"
+  },
+  "topicMenu": {
+    "title": "Topic For Dummies",
+    "enjoyTheFood": "Enjoy The Food",
+    "IGCheckInStop": "IG Check In Stop",
+    "takeAStroll": "Take A Stroll",
+    "secretPlaceTour": "Secret Place Tour",
+    "foreignFreeTravel": "Foreign Free Travel"
+  },
+  "topicCard": {
+    "title": "Topic For Dummies"
+  },
+  "placesCard": {
+    "title": "Popular attractions"
+  },
+  "recommendCards": {
+    "title": "Recommend Itineraries"
+  },
+  "loginForm": {
+    "title": "Log in to your account",
+    "signIn": "Sign In",
+    "signUp": "Sign UP",
+    "username": "Username",
+    "password": "Password"
+  },
+  "collection": {
+    "title": "My Collection",
+    "category": "category",
+    "article": "Article",
+    "intro": "Introduction",
+    "read": "Read",
+    "delete": "Delete",
+    "close": "Close"
+  }
+}
