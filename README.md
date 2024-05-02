@@ -15,4 +15,7 @@ npm install
 npm i vuetify
 npm i i18n
 npm i vue-router
+npm i webfontsloader
+npm i @mdi/font -D
+npm i mockjs
 ```
