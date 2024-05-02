@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "必吃美食",
+    "subtitle": "所有必吃餐廳、特色小吃不可錯過",
+    "img": "https://gallery.twtainan.net/image/9464/1024x768",
+    "href": "",
+    "flex": 2.5
+  },
+  {
+    "id": 2,
+    "title": "IG打卡景點",
+    "subtitle": "看看IG紅什麼，還不來打卡？",
+    "img": "https://static.wixstatic.com/media/d44a48_3bd1e1d55f434ed1b10b0976c343e576~mv2.jpeg/v1/fill/w_560,h_404,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fullsizeoutput_2c8b.jpeg",
+    "href": "",
+    "flex": 2.5
+  },
+  {
+    "id": 3,
+    "title": "悠遊散策",
+    "subtitle": "沉浸在懷舊氛圍，讓走路不再乏味",
+    "img": "https://img.poibank.com/i-MT9vGn4BZ-JrwrtFm_qnaah4M=/W3siZm9ybWF0Ijoid2VicCJ9LHsia2V5Ijoiam91cm5hbHMvMzcyMjUvZDZiZjUzNWYtMTgxMS00YmY2LTkzNDUtOTZkNDA3Njc5NDMxIn0seyJyZXNpemUiOnsid2lkdGgiOiI4MDAifX1d",
+    "href": "",
+    "flex": 2.5
+  },
+  {
+    "id": 4,
+    "title": "秘境攻略",
+    "subtitle": "帶你體驗擁有迷人魅力的秘境",
+    "img": "https://img.poibank.com/jTWo_mcCP6lCjS8ZN2s06ka-fHE=/W3siZm9ybWF0Ijoid2VicCJ9LHsia2V5Ijoiam91cm5hbHMvODA0OTIvZjE3NDEzZDItZGMxZS00YTJkLWE4MjEtN2JmMmE5MzcxNzExIn0seyJyZXNpemUiOnsid2lkdGgiOiI4MDAifX1d",
+    "href": "",
+    "flex": 2.5
+  },
+  {
+    "id": 5,
+    "title": "國外自由行",
+    "subtitle": "給你最完整的自由行攻略！",
+    "img": "https://tw.wamazing.com/media/wp-content/uploads/sites/4/2019/09/kyototravel_pixta_82350195_L_eyecatch.jpg.webp",
+    "href": "",
+    "flex": 2.5
+  }
+]

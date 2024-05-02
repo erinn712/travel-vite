@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "category": "diving",
+    "title": "潛進小琉球",
+    "intro": "小琉球是台灣交通最方便的離島，從東港搭船僅需20分鐘即可抵達。享受與明星海龜共游的樂趣。海龜是瀕臨絕種的保育類動物，觸碰、追逐與餵食海龜者最高罰新台幣30萬元。不打擾海龜生活、換氣甚至產卵，才是與海共生的好行為 !",
+    "img": "../../public/images/diving/01_XiaoLiuqiu/1.jpg",
+    "img2": "../../public/images/diving/01_XiaoLiuqiu/2.jpg",
+    "img3": "../../public/images/diving/01_XiaoLiuqiu/3.jpg"
+  },
+  {
+    "id": 2,
+    "category": "diving",
+    "title": "潛進蘭嶼",
+    "intro": "Pongsono-Tawo，意為「人之島」，是當地達悟族的稱呼。後被外人稱為「蘭嶼」。「人之島」為火山島，因黑潮流經，海水清澈透明，有「玻璃水」的美譽。水底地形變化複雜，海流切割出許多峽谷與洞穴，有大山大水的遼闊壯麗感。",
+    "img": "../../public/images/diving/02_OrchidIsland/1.jpg",
+    "img2": "../../public/images/diving/02_OrchidIsland/2.jpg",
+    "img3": "../../public/images/diving/02_OrchidIsland/3.jpg"
+  },
+  {
+    "id": 3,
+    "category": "diving",
+    "title": "潛進綠島",
+    "intro": "以玻璃水著稱的國際級潛水勝地 - 綠島。這座小小的火山島四周圍珊瑚群礁環繞，黑潮帶來豐富的生態環境與清澈的能見度。氣候溫暖，海況宜人，是相當受歡迎的旅遊與潛水勝地。",
+    "img": "../../public/images/diving/03_GreenIsland/1.jpg",
+    "img2": "../../public/images/diving/03_GreenIsland/2.jpg",
+    "img3": "../../public/images/diving/03_GreenIsland/3.jpg"
+  }
+]
