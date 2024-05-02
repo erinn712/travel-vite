@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "//": "--force每次運行腳本就會更新依賴 --host獲取本地IP",
+    "dev": "vite --force --host",
     "build": "vite build",
     "preview": "vite preview"
   },
