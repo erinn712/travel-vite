@@ -5,7 +5,7 @@ import router from "./router";
 import vuetify from "./plugins/vuetify";
 import { loadFonts } from "./plugins/webfontloader";
 import i18n from "./i18n/index.js";
-import "@/mock/mockServer";
+import "./mock/mockServer.js";
 
 loadFonts();
 

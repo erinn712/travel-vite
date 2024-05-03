@@ -1,6 +1,6 @@
 // api/module/home/index.js
 
-import server from "../server";
+import server from "../../server";
 
 export const homeApi = {
   getSlidesApi: async () => {

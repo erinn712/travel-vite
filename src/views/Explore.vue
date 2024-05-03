@@ -5,5 +5,5 @@
 </template>
 
 <script setup>
-import HeaderMenu from "@/components/header/index.vue";
+import HeaderMenu from "../components/header/index.vue";
 </script>

@@ -27,14 +27,14 @@
 </template>
 
 <script>
-import HeaderMenu from "@/components/header/index.vue";
-import Carousel from "@/components/carousel/index.vue";
-import TopicCards from "@/components/topicCards/index.vue";
-import PlacesCards from "@/components/placesCards/index.vue";
-import RecommendCards from "@/components/recommendCards/index.vue";
-import Footer from "@/components/footer/index.vue";
+import HeaderMenu from "../components/header/index.vue";
+import Carousel from "../components/carousel/index.vue";
+import TopicCards from "../components/topicCards/index.vue";
+import PlacesCards from "../components/placesCards/index.vue";
+import RecommendCards from "../components/recommendCards/index.vue";
+import Footer from "../components/footer/index.vue";
 import { ref } from "vue";
-import { homeApi } from "@/api/module/home/index.js";
+import { homeApi } from "../api/module/home/index.js";
 
 export default {
   name: "HomeView",
