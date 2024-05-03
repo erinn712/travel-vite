@@ -16,8 +16,10 @@
 </template>
 
 <script>
-import { watch } from "vue";
+import { watch, ref } from "vue";
 import { useI18n } from "vue-i18n";
+
+let isSelected = ref('')
 
 export default {
   name: "RecommendCards",
@@ -37,6 +39,7 @@ export default {
     return {
       t,
       locale,
+      isSelected
     };
   },
 };

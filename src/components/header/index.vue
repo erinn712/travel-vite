@@ -161,9 +161,11 @@
 </template>
 
 <script setup>
-import { reactive, watch } from "vue";
+import { reactive, watch, ref } from "vue";
 import { useI18n } from "vue-i18n";
 import { useRouter } from "vue-router";
+
+let search = ref('')
 
 const router = useRouter();
 const homePage = () => {
