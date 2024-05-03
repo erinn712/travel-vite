@@ -13,9 +13,13 @@ npm install
 ## Dependencies
 ```
 npm i vuetify
-npm i i18n
+npm i vue-i18n
 npm i vue-router
 npm i webfontsloader
 npm i @mdi/font -D
 npm i mockjs
+npm i path-browserify
+npm i vite-plugin-vuetify
+npm i unplugin-auto-import
+npm i unplugin-vue-components
 ```

@@ -35,8 +35,7 @@
     <v-app-bar-title @click="homePage" class="cursor-pointer">
       <v-icon icon="mdi-airplane"></v-icon>
       {{ t("header.title") }}
-      </v-app-bar-title
-    >
+    </v-app-bar-title>
     <template v-slot:append>
       <v-btn> {{ t("header.myFollowing") }} </v-btn>
       <v-btn> {{ t("header.startPlanning") }} </v-btn>
@@ -163,15 +162,15 @@
 
 <script setup>
 import { reactive, watch } from "vue";
-import { useI18n } from "i18n";
+import { useI18n } from "vue-i18n";
 import { useRouter } from "vue-router";
 
-const router = useRouter()
+const router = useRouter();
 const homePage = () => {
   // router.push({ path: "/home" })
-  router.push("/home")
-  console.log('homePage')
-}
+  router.push("/home");
+  console.log("homePage");
+};
 const { t, locale } = useI18n();
 const exploreList = reactive([
   {
