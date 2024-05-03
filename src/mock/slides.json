@@ -2,32 +2,31 @@
   {
     "id": 1,
     "title": "潛水體驗",
-    "image2": "https://stayliuqiu.com/wp-content/uploads/4.%E6%8E%A2%E7%B4%A2%E6%8B%89%E7%BE%8E%E5%8D%8A%E6%BD%9B%E8%89%87.png",
-    "image": "../../public/images/carousel/1.png",
+    "image": "/images/carousel/1.png",
     "link": "/diving"
   },
   {
     "id": 2,
     "title": "親子景點一日遊",
-    "image": "https://www.mingshan.com.tw/upload/location_b/b229017f8422de6f18467d5099b54328.jpg",
+    "image": "/images/carousel/2.jpg",
     "link": "https://picsum.photos/1000/200?random"
   },
   {
     "id": 3,
     "title": "櫻花季",
-    "image": "https://www.jal.co.jp/tw/zhtw/guide-to-japan/experiences/cherry-blossom/cherry-blossom-season/index/_jcr_content/root/responsivegrid/sectioncontainer_cop/image_1380017849.coreimg.jpeg/1678685248359.jpeg",
+    "image": "/images/carousel/3.jpeg",
     "link": "https://picsum.photos/1000/200?random"
   },
   {
     "id": 4,
     "title": "韓劇取景地",
-    "image": "https://cdn.tatlerasia.com/tatlerasia/i/2024/02/07123427-422145747-18324066388116979-5821318404692424159-n_cover_1080x1080.jpg",
+    "image": "/images/carousel/4.jpg",
     "link": "https://picsum.photos/1000/200?random"
   },
   {
     "id": 5,
     "title": "造訪千年古都",
-    "image": "https://cdn.esence.travel/%E6%9C%AC%E8%B3%AA%E6%97%85%E8%A1%8C/%E6%9C%AC%E8%B3%AA%E6%97%85%E8%A1%8C-%E6%95%85%E4%BA%8B%E6%96%87%E7%AB%A0%E9%A6%96%E5%9C%96-1200737-1-8.png",
+    "image": "/images/carousel/5.png",
     "link": "https://picsum.photos/1000/200?random"
   }
 ]

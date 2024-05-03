@@ -4,6 +4,7 @@
     show-arrows="hover"
     cycle
     hide-delimiter-background
+    eager
   >
     <v-carousel-item
       v-for="(slide, i) in data"
@@ -16,6 +17,7 @@
           class="d-flex fill-height justify-center align-end"
           gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.1)"
           cover
+          eager
         >
           <v-card-title class="text-white"
             ><h3>{{ slide.title }}</h3></v-card-title
@@ -39,8 +41,9 @@ export default {
       default: () => [],
     },
   },
-  setup () {
+  setup() {
     const router = useRouter();
+
     const goToCategory = (id) => {
       router.push(`/category/${id}`);
     };
